@@ -21,6 +21,7 @@ Currently transitioning from field maintenance to engineering and automation-foc
 - Edge computing
 - Industrial networks
 - Automation software development
+- MQTT
 
 ---
 
@@ -33,6 +34,7 @@ Currently transitioning from field maintenance to engineering and automation-foc
 - Docker
 - InfluxDB
 - Grafana
+- MQTT
 
 ---
 
