@@ -49,4 +49,5 @@ To grow into an Automation Engineer and Industrial Digitalization Specialist, co
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/luan-correa-
+- LinkedIn: [Luan Corrêa](https://linkedin.com/in/luan-correa-)
+- Email: Luangabrielnc@hotmail.com
