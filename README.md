@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Luan Corrêa 👋
 
-<!--
-**Luangnc/Luangnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer | Computer Engineering | Industrial Automation | Industrial IoT Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an industrial maintenance professional passionate about digitalization, industrial data acquisition and Industry 4.0 solutions.
+
+My main focus is integrating machines, PLCs and sensors into intelligent monitoring systems using IoT and data visualization platforms.
+
+Currently transitioning from field maintenance to engineering and automation-focused roles.
+
+---
+
+## 💡 Technical Interests
+
+- Industrial IoT (IIoT)
+- Data acquisition systems
+- Edge computing
+- Industrial networks
+- Automation software development
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Node-RED
+- ESP32
+- Siemens S7-1200
+- TIA Portal
+- Docker
+- InfluxDB
+- Grafana
+
+---
+
+## 📊 Featured Projects
+
+
+---
+
+## 🎯 Career Objective
+
+To grow into an Automation Engineer and Industrial Digitalization Specialist, contributing to smarter and more efficient industrial environments.
+
+---
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/luan-correa-
